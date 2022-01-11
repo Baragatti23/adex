@@ -1,0 +1,35 @@
+1. Fundamentos de algoritmica
+2. Algoritmica desde cero
+3. Lógica de programación
+4. Estructuras de datos desde cero
+5. Algoritmos y EEDD
+6. Prgramación orientada a Objetos
+7. Diagramas UML para clases
+8. Fundamentos de HTML
+9. HTML y la Web semántica
+10. Fundamentos de diseño
+11. CSS básico
+12. CSS avanzado desde cero
+13. Introducción a los lenguajes de programación
+14. CSS flexbox y Grid
+15. Filtros con CSS
+16. Sass - CSS desde cero
+17. SVG desde cero
+18. Gráficos SVG
+19. Animaciones web. CSS y SVG
+20. Fundamentos de BBDD
+21. Teoría de Bases de datos relacionales
+22. Diagramación de las Bases de datos - MER
+23. El lenguaje SQL estándar
+24. Teoría de conjuntos
+25. Algebra de conjuntos y cálculo relacional
+26. Sistemas de numeración digital
+27. Lógica propsosicional y circuitos lógicos
+28. Introducción a la electrónica digital
+29. Fundamentos de la electrónica digital
+30. MySql Database desde cero
+31. Firebase Database desde cero
+32. ProstGress Database desde cero
+33. Git basico
+34. Git avanzado
+35. 
